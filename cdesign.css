@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(56, 53, 53);
+}
+.cal{
+    text-align: center;
+    padding-top: 3cm;
+    padding-left: 12cm;
+    max-width: 100%;
+    min-width: 40%;
+
+}
+.cal form{
+    background-color: rgb(164, 161, 161);
+    max-width: 40%;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    padding-top: 1.5cm;
+    padding-bottom: 1.2cm;
+    box-shadow: 4px 4px 4px 4px black;
+}
+button{
+    padding-left: 0.4cm;
+    padding-right: 0.4cm;
+    padding-top: 0.6cm;
+    padding-bottom: 0.6cm;
+    width: 20%;
+    margin: 8px auto;
+    border-radius: 10px;
+    font-size: 25px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.display input{
+    font-size: 20px;
+    padding: 0.3cm;
+    text-align: right;
+    
+}
+#oper{
+    background-color: rgb(48, 48, 51);
+    color: aliceblue;
+}
+#con{
+    background-color: rgb(156, 4, 4);
+    color: aliceblue;
+}
+
+
